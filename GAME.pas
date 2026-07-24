@@ -148,7 +148,7 @@ Begin
     tableValue(T);
     writeln;
     writeln('PLAYER 1 : -----------------> X');
-    writeln('PLAYER 1 : -----------------> O');
+    writeln('PLAYER 2 : -----------------> O');
     repeat
         Repeat
             Repeat
